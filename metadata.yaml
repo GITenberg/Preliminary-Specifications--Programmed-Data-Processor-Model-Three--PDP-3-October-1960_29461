@@ -1,0 +1,31 @@
+_repo: Preliminary-Specifications--Programmed-Data-Processor-Model-Three--PDP-3-October-1960_29461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Digital Equipment Corporation
+    aliases:
+    - Corporation, Digital Equipment
+    - D.E.C.
+    - DEC
+    gutenberg_agent_id: '33924'
+    url: http://www.gutenberg.org/2009/agents/33924
+description: ''
+gutenberg_issued: '2009-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'PDP-3 (Computer)'
+- !lcc 'TK'
+- !lcsh 'Electronic digital computers'
+title: 'Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)
+
+  October, 1960'
+url: http://www.gutenberg.org/ebooks/29461
